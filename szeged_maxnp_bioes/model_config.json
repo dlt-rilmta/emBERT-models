@@ -1,0 +1,1 @@
+{"bert_model": "bert-base-multilingual-cased", "do_lower": false, "max_seq_length": 384, "num_labels": 8, "labels": ["1-NP", "B-NP", "E-NP", "I-NP", "O", "[CLS]", "[SEP]"]}
