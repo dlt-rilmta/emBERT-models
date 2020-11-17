@@ -1,3 +1,4 @@
 szeged_maxnp_bioes/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
 szeged_ner_bioes/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
 szeged_basenp_bioes/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+szeged_ner_multilang_bioes/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
